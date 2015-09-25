@@ -43,3 +43,4 @@
 			this.echo(logMsg);
 			this.exit();
 		});
+//Test
